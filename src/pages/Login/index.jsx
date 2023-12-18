@@ -1,7 +1,7 @@
 import { View } from "@tarojs/components";
 
 const Login = () => {
-  return <View>{/* Your content here */}</View>;
+  return <View></View>;
 };
 
 export default Login;

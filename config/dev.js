@@ -1,9 +1,7 @@
-
 export default {
   logger: {
     quiet: false,
-    stats: true
+    stats: true,
   },
-  mini: {},
-  h5: {}
-}
+  h5: {},
+};

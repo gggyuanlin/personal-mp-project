@@ -3,5 +3,8 @@ export default {
     quiet: false,
     stats: true,
   },
+  mini: {
+    hot: true,
+  },
   h5: {},
 };

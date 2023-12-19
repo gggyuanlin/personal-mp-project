@@ -30,7 +30,8 @@ export default function Index() {
           <Card className="border-solid border-yellow-200 border rounded-md mx-6">
             <Text className=" text-white text-2xl block">领药说明</Text>
             <Text className=" text-white block">
-              因为药品的特殊性因为药品的特殊性因为药品的特殊性因为药品的特殊性因为药品的特殊性因为药品的特殊性因为药品的特殊性
+              因为药品的特殊性
+              因为药品的特殊性因为药品的特殊性因为药品的特殊性因为药品的特殊性因为药品的特殊性因为药品的特殊性
             </Text>
           </Card>
 
